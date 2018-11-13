@@ -1,3 +1,3 @@
 def parrot(phrase = "Squawk!")
-  puts sound
+  puts phrase
 end
